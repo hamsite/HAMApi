@@ -1,0 +1,14 @@
+C:\WorkSpace\Visual Studio Projects\HAMApi\HAMApi\obj\Debug\netcoreapp2.1\HAMApi.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Visual Studio Projects\HAMApi\HAMApi\obj\Debug\netcoreapp2.1\HAMApi.RazorAssemblyInfo.cache
+C:\WorkSpace\Visual Studio Projects\HAMApi\HAMApi\obj\Debug\netcoreapp2.1\HAMApi.RazorAssemblyInfo.cs
+C:\WorkSpace\Visual Studio Projects\HAMApi\HAMApi\obj\Debug\netcoreapp2.1\HAMApi.AssemblyInfoInputs.cache
+C:\WorkSpace\Visual Studio Projects\HAMApi\HAMApi\obj\Debug\netcoreapp2.1\HAMApi.AssemblyInfo.cs
+C:\WorkSpace\Visual Studio Projects\HAMApi\HAMApi\bin\Debug\netcoreapp2.1\HAMApi.deps.json
+C:\WorkSpace\Visual Studio Projects\HAMApi\HAMApi\bin\Debug\netcoreapp2.1\HAMApi.runtimeconfig.json
+C:\WorkSpace\Visual Studio Projects\HAMApi\HAMApi\bin\Debug\netcoreapp2.1\HAMApi.runtimeconfig.dev.json
+C:\WorkSpace\Visual Studio Projects\HAMApi\HAMApi\bin\Debug\netcoreapp2.1\HAMApi.dll
+C:\WorkSpace\Visual Studio Projects\HAMApi\HAMApi\bin\Debug\netcoreapp2.1\HAMApi.pdb
+C:\WorkSpace\Visual Studio Projects\HAMApi\HAMApi\obj\Debug\netcoreapp2.1\HAMApi.RazorTargetAssemblyInfo.cache
+C:\WorkSpace\Visual Studio Projects\HAMApi\HAMApi\obj\Debug\netcoreapp2.1\HAMApi.dll
+C:\WorkSpace\Visual Studio Projects\HAMApi\HAMApi\obj\Debug\netcoreapp2.1\HAMApi.pdb
+C:\WorkSpace\Visual Studio Projects\HAMApi\HAMApi\obj\Debug\netcoreapp2.1\HAMApi.csprojAssemblyReference.cache
