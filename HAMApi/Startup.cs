@@ -19,7 +19,7 @@ namespace HAMApi
             builder =>
             {
                 builder.AllowAnyMethod().AllowAnyHeader()
-                         .AllowAnyOrigin()
+                        .AllowAnyOrigin()
                         .AllowCredentials();
             }));
 
